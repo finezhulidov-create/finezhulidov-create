@@ -1,4 +1,4 @@
-## Привет, я Александр 👋
+## Здравствуйте, я Александр 
 
 Java-разработчик, осваиваю backend-разработку на Spring Boot.
 Ищу стажировку или позицию Junior Java Developer.
@@ -13,7 +13,7 @@ Java-разработчик, осваиваю backend-разработку на 
 ### 📌 Проекты
 | Проект | Описание | Стек |
 |--------|----------|------|
-| [Cash Tracker](https://github.com/finezhulidov-create/cash-tracker) | Учёт расходов с JWT-аутентификацией | Spring Boot, Security, PostgreSQL |
+| [Cash Tracker](https://github.com/finezhulidov-create/cash-tracker) | Учёт расходов с JWT-аутентификацией | Spring Boot, Security, PostgreSQL, Redis, Kafka, Docker, Spring Data |
 | [Summer Framework](https://github.com/finezhulidov-create/summer-framework-course-project) | IoC-контейнер — аналог Spring DI с нуля | Java 17, JUnit 5, JitPack |
 
 ### 📚 Образование
